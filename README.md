@@ -58,7 +58,6 @@
 <img width="942" alt="placement layout" src="https://github.com/Shailaja9607/NASSCOM-VSD-SoC-Design-Program/assets/169365653/58bfaa2b-f4c9-42a7-ba63-f66cb2412f5b">
 <img width="936" alt="layout1" src="https://github.com/Shailaja9607/NASSCOM-VSD-SoC-Design-Program/assets/169365653/629af675-8751-412d-8e09-75b697eb1d89">
 <img width="807" alt="placement of cells" src="https://github.com/Shailaja9607/NASSCOM-VSD-SoC-Design-Program/assets/169365653/29be777b-0784-4041-8c7f-b1a71635b878">
-<img width="942" alt="placement layout" src="https://github.com/Shailaja9607/NASSCOM-VSD-SoC-Design-Program/assets/169365653/71956b7a-693b-451b-91a4-40f44ac1cf30">
 
 
 //Steps to change I/O pins distance 
@@ -68,8 +67,6 @@
 // run the floorplan once again , we can observe equidistant placement of cells
 # set::(FP_IO_MODE) 2
 we can observe the floorplan has a I/O of equidistant 2
-
-<img width="942" alt="placement layout" src="https://github.com/Shailaja9607/NASSCOM-VSD-SoC-Design-Program/assets/169365653/54b3d8b8-ac67-4417-8a7e-c106d067deab">
 
 <img width="928" alt="after floorplan and placement cells with equidistant" src="https://github.com/Shailaja9607/NASSCOM-VSD-SoC-Design-Program/assets/169365653/cd735141-1cca-4e19-bfaf-45045ed83d45">
   
